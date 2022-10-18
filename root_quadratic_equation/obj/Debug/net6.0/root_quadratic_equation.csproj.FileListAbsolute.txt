@@ -1,0 +1,15 @@
+N:\ШАГ РПО\C#\root_quadratic_equation\bin\Debug\net6.0\root_quadratic_equation.exe
+N:\ШАГ РПО\C#\root_quadratic_equation\bin\Debug\net6.0\root_quadratic_equation.deps.json
+N:\ШАГ РПО\C#\root_quadratic_equation\bin\Debug\net6.0\root_quadratic_equation.runtimeconfig.json
+N:\ШАГ РПО\C#\root_quadratic_equation\bin\Debug\net6.0\root_quadratic_equation.dll
+N:\ШАГ РПО\C#\root_quadratic_equation\bin\Debug\net6.0\root_quadratic_equation.pdb
+N:\ШАГ РПО\C#\root_quadratic_equation\obj\Debug\net6.0\root_quadratic_equation.csproj.AssemblyReference.cache
+N:\ШАГ РПО\C#\root_quadratic_equation\obj\Debug\net6.0\root_quadratic_equation.GeneratedMSBuildEditorConfig.editorconfig
+N:\ШАГ РПО\C#\root_quadratic_equation\obj\Debug\net6.0\root_quadratic_equation.AssemblyInfoInputs.cache
+N:\ШАГ РПО\C#\root_quadratic_equation\obj\Debug\net6.0\root_quadratic_equation.AssemblyInfo.cs
+N:\ШАГ РПО\C#\root_quadratic_equation\obj\Debug\net6.0\root_quadratic_equation.csproj.CoreCompileInputs.cache
+N:\ШАГ РПО\C#\root_quadratic_equation\obj\Debug\net6.0\root_quadratic_equation.dll
+N:\ШАГ РПО\C#\root_quadratic_equation\obj\Debug\net6.0\refint\root_quadratic_equation.dll
+N:\ШАГ РПО\C#\root_quadratic_equation\obj\Debug\net6.0\root_quadratic_equation.pdb
+N:\ШАГ РПО\C#\root_quadratic_equation\obj\Debug\net6.0\root_quadratic_equation.genruntimeconfig.cache
+N:\ШАГ РПО\C#\root_quadratic_equation\obj\Debug\net6.0\ref\root_quadratic_equation.dll
